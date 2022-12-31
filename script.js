@@ -1,6 +1,6 @@
 var tabOrig;//variável que armazena todos os O´s e X´s
-const jogador = 'X'
-const cpu = 'O'
+const jogador = 'X';
+const cpu = 'O';
 //todas as possibilidades de vitória
 const possibilidades = [
     [0, 1, 2],
